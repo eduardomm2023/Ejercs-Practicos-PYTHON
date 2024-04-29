@@ -1,5 +1,5 @@
 # Ejercs-Practicos-PYTHON
 # TODOS los ejercicios prácticos aquí presentados son de "cosecha propia", partiendo desde lo más básico e incrementando el nivel progresivamente.
 # Se realizan de la manera más fácil, comprensible y secuenciados posible, para que todo el mundo pueda seguirlos. 
-# Cualquier implementación de mejora es siempre bienvenida, pero hay que tener en cuenta que se hará una ewvolución en el proceso de ejecución de cada ejercicio.
+# Cualquier implementación de mejora es siempre bienvenida, pero hay que tener en cuenta que se hará una evolución en el proceso de ejecución de cada ejercicio.
 # Estos ejercicios NO pretenden ser una "regla" que haya que seguir al pie de la letra. Tan sólo SON un GUIÓN.
