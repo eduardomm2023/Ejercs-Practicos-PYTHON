@@ -1,5 +1,8 @@
 # Ejercs-Practicos-PYTHON
-![](phyton2.png)
+<p align = "center">
+  <img src = "phyton2.png"
+    </p>
+
 # TODOS los ejercicios prácticos aquí presentados son de "cosecha propia", partiendo desde lo más básico e incrementando el nivel progresivamente.
 # Se realizan de la manera más fácil, comprensible y secuenciados posible, para que todo el mundo pueda seguirlos. 
 # Cualquier implementación de mejora es siempre bienvenida, pero hay que tener en cuenta que se hará una evolución en el proceso de ejecución de cada ejercicio.
